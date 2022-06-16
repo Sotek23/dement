@@ -1,0 +1,2 @@
+# dement
+Proste hňup 
